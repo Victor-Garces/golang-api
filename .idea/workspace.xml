@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88090761-9fae-49b8-89ff-53dac3a5a09e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1l7ldNVCkDlXVPjpgC4AI2QNcOF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build Victor-Garces/golang-api" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="Victor-Garces/golang-api" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Victor-Garces/golang-api" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88090761-9fae-49b8-89ff-53dac3a5a09e" name="Default Changelist" comment="" />
+      <created>1606956098213</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606956098213</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2672" y="471" key="#GOROOT" timestamp="1606956302674">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2672" y="471" key="#GOROOT/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606956302674" />
+    <state x="2334" y="195" width="1092" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606956553296">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2334" y="195" width="1092" height="764" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606956553296" />
+    <state x="2747" y="327" key="EnvironmentVariablesDialog" timestamp="1606956470797">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2747" y="327" key="EnvironmentVariablesDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606956470797" />
+    <state x="2660" y="320" key="FileChooserDialogImpl" timestamp="1606956467235">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2660" y="320" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606956467235" />
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom" timestamp="1606957120207">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606957120207" />
+    <state width="1877" height="208" key="GridCell.Tab.0.center" timestamp="1606957120207">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606957120207" />
+    <state width="1877" height="208" key="GridCell.Tab.0.left" timestamp="1606957120207">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606957120207" />
+    <state width="1877" height="208" key="GridCell.Tab.0.right" timestamp="1606957120207">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1877" height="208" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606957120207" />
+    <state x="2381" y="185" key="SettingsEditor" timestamp="1606957044039">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="185" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606957044039" />
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1606956264784">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606956264784" />
+  </component>
+</project>
